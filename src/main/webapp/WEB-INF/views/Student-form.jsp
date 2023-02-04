@@ -35,14 +35,14 @@
 
 			<div class="form-inline">
 				<input type="text" name="firstName" value="${Student.firstName}"
-					class="form-control mb-4 col-4" placeholder="FristName">
+					class="form-control mb-4 col-4" placeholder="First Name">
 
 			</div>
 
 			<div class="form-inline">
 
 				<input type="text" name="lastName" value="${Student.lastName}"
-					class="form-control mb-4 col-4" placeholder="LastName">
+					class="form-control mb-4 col-4" placeholder="Last Name">
 			</div>
 
 			<div class="form-inline">
